@@ -1,2 +1,1 @@
-"# Python3" 
-"# Python3" 
+I THINK ITS A BAD PROGRESS
